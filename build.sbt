@@ -1,4 +1,4 @@
-name := "simple-server"
+name := "myscripts"
 
 version := "1.0"
 
