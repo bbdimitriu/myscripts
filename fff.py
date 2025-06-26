@@ -1,4 +1,5 @@
-# create a main function to run a continuous while loop that waits for user input
+# This is our collaborative effort for the work experience event
+
 import functools
 import os
 
